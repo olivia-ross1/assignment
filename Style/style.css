@@ -1,0 +1,62 @@
+body{
+  font: 15px/1.5 Helvetica;
+  padding:0;
+  margin:0;
+  background-color:#F6F4F2;
+  }
+
+  .container{
+    width:90%;
+    margin:auto;
+    overflow:hidden;
+  }
+
+  /*Header **/
+  header{
+    background:#275a72;
+    color:#ffffff;
+    padding-top:30px;
+    min-height:70px;
+    border-bottom:#687864 3px solid;
+  }
+
+  header #branding h1{
+    margin: 0;
+    color:white;
+    font-weight:bold;
+    font-size:30px;
+    font-family: cambria;
+  }
+
+  .juxtapose{
+    width: 58%;
+    float: right;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom:0;
+  }
+
+.graph{
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 90%;
+ padding:20px;
+}
+
+.article{
+   background-color:white;
+   color:black;
+   padding: 30px;
+   margin-top: 20px;
+   margin-left: 110px;
+   margin-right: 110px;
+   text-align: justify;
+   border:#31708E 2px solid;
+}
+
+  h2{
+    margin:0;
+    font-weight:bold;
+    font-size: 25px;
+}
