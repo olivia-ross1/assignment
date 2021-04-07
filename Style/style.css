@@ -53,10 +53,22 @@ body{
    margin-right: 110px;
    text-align: justify;
    border:#31708E 2px solid;
+   border-bottom:0;
+}
+
+.articles{
+  background-color:white;
+  color:black;
+  padding: 30px;
+  margin-top: 20px;
+  margin-left: 110px;
+  margin-right: 110px;
+  text-align: justify;
+  border:#31708E 2px solid;
 }
 
   h2{
     margin:0;
     font-weight:bold;
-    font-size: 25px;
+    font-size: 28px;
 }
